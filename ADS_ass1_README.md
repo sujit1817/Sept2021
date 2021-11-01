@@ -69,7 +69,12 @@ the corresponding function is called as recursive function.
 
 
 13)Difference between Linear and Non Linear DS
+ 1. In a linear data structure, data elements are arranged in a linear order where each and every elements are attached to its previous and next adjacent.
+Arrray , list , stack, queue.
 
+ 2. In a non-linear data structure, data elements are attached in hierarchical manner.
+ Tree, Graph
+ 
 
 14)What are different characterstics of an Algorithm?types of Algorithm.
 
