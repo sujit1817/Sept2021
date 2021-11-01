@@ -19,9 +19,9 @@ provides efficiency
 reusability
 
 
-4) List out the areas in which data structures are applied extensively(real time examples)?                                                                                      1.Database Management System   
-2.Books placed one over another(stack)
-3.ticket booking system(queue). 1st come(in) first serve(Out)//  (FIFO)
+4) List out the areas in which data structures are applied extensively(real time examples)?                                                                                      1.Database Management System                                                                                                                                            
+2.Books placed one over another(stack)                                                                                                                                           
+3.ticket booking system(queue).// 1st come(in) first serve(Out)//  (FIFO)
 
 
 5) List different types of data structures.                                                                                                                                       
