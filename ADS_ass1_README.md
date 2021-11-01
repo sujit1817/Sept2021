@@ -19,7 +19,7 @@ provides efficiency
 reusability
 
 
-4) List out the areas in which data structures are applied extensively(real time examples)?                                                                                       1.Database Management System   
+4) List out the areas in which data structures are applied extensively(real time examples)?                                                                                      1.Database Management System   
 2.Books placed one over another(stack)
 3.ticket booking system(queue). 1st come(in) first serve(Out)//  (FIFO)
 
@@ -29,9 +29,9 @@ Basically, data structures are divided into two categories:
      
 1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
 in a linear manner.
-- array
+- array( Array is an object which contains elements of a similar data type )
 - structure & union
-- class
+- class (  )
 - linked list
 - stack
 - queue
@@ -75,9 +75,10 @@ the corresponding function is called as recursive function.
 14)What are different characterstics of an Algorithm?types of Algorithm.
 
 
-15)State Advantages and Dis advantages of Recursion.                                                                                                                              
+15)State Advantages and Dis advantages of Recursion.                                                                                                                             
+
 Advantages:
 makes code shorter
 
-disadv:
+disadv:                                                                                                                                                                         
 Hard to analyze or understand the code.
