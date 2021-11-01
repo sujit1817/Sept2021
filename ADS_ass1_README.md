@@ -25,9 +25,9 @@ reusability
 
 
 5) List different types of data structures.                                                                                                                                       
-Basically, data structures are divided into two categories:
+   Basically, data structures are divided into two categories:
      
-1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
+  1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
 in a linear manner.
 - array( Array is an object which contains elements of a similar data type )
 - structure & union
@@ -36,9 +36,9 @@ in a linear manner.
 - stack (It works just like a Books placed one over another where the last book kept will be removed first)
 - queue (It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first.)
 
-2. non-linear/advanced data structures: data ele's gets stored in a non-linear manner and hence
+ 2. non-linear/advanced data structures: data ele's gets stored in a non-linear manner and hence
 can be accessed in a non-linear manner.
-- tree (heirachical manner)
+- tree (heirachical manner) // one branch extends another one
 - graph (network)
 - hash table (associative manner)
 - binary heap
