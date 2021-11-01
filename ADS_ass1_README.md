@@ -24,7 +24,7 @@ reusability
 3.ticket booking system(queue).// 1st come(in) first serve(Out)//  (FIFO)
 
 
-5) List different types of data structures.                                                                                                                                       
+5) List different types of data structures.                                                                                                                                    
    Basically, data structures are divided into two categories:
      
   1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
