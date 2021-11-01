@@ -31,10 +31,10 @@ Basically, data structures are divided into two categories:
 in a linear manner.
 - array( Array is an object which contains elements of a similar data type )
 - structure & union
-- class (  )
-- linked list
-- stack
-- queue
+- class 
+- linked list ( it is a collection/list of logically related similar type of elements )
+- stack (It works just like a Books placed one over another where the last book kept will be removed first)
+- queue (It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first.)
 
 2. non-linear/advanced data structures: data ele's gets stored in a non-linear manner and hence
 can be accessed in a non-linear manner.
@@ -66,7 +66,6 @@ the corresponding function is called as recursive function.
 
 
 12)Difference between Primitive and Non Primitive DS
-
 
 
 13)Difference between Linear and Non Linear DS
