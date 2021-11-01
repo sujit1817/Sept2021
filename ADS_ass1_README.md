@@ -1,5 +1,5 @@
 # Sept2021
-1) What do you mean by Data Structures?
+1) What do you mean by Data Structures?                                                                                                                                           
 Data Structure can be defined as the group of data elements which provides an efficient 
 way of storing and organising data in the computer.
 or we can say
@@ -7,24 +7,24 @@ it is a way to store data into the memory (i.e. into the main memory) in an orga
 that operations (like insertion, deletion, searching, sorting, traversal etc....) can be performed on it
 efficiently.
 
-2) Define The Goals Of Data Structure?
+2) Define The Goals Of Data Structure?                                                                                                                                           
  Identify and develop useful mathematical entities and operations and to determine what classes of problems 
 can be solved by using these entities.
 
 
-3) What is the Need of DS
+3) What is the Need of DS?                                                                                                                                                       
 Data struture provides a way of organizing ,managing and storing data efficienty with help
 of data strutures.
 provides efficiency
 reusability
 
 
-4) List out the areas in which data structures are applied extensively(real time examples)?
+4) List out the areas in which data structures are applied extensively(real time examples)?                                                                                       
 
 
-5) List different types of data structures.
+5) List different types of data structures.                                                                                                                                       
 Basically, data structures are divided into two categories:
-
+     
 1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
 in a linear manner.
 - array
@@ -41,17 +41,17 @@ can be accessed in a non-linear manner.
 - hash table (associative manner)
 - binary heap
 
-6) What Does Abstract Data Type Mean?
+6) What Does Abstract Data Type Mean?                                                                                                                                           
 
-7) What is Recursion?
+7) What is Recursion?                                                                                                                                                           
 The process in which a function calls itself directly or indirectly is called recursion and 
 the corresponding function is called as recursive function.
 
 8) List and Explain types of Recursion
+                                                    
 
 
-
-9) Explain the data structures used to perform recursion?
+9) Explain the data structures used to perform recursion?                         
 
 
 
@@ -73,7 +73,7 @@ the corresponding function is called as recursive function.
 14)What are different characterstics of an Algorithm?types of Algorithm.
 
 
-15)State Advantages and Dis advantages of Recursion.
+15)State Advantages and Dis advantages of Recursion.                                                                                                                              
 Advantages:
 makes code shorter
 
