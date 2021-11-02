@@ -57,10 +57,10 @@ Tail Recursion.
 Head Recursion. 
 
 1)Direct Recursion
-
+In the direct recursion, only one function is called by itself.
 
 2)Indirect Recursion
-
+In indirect recursion more than one function are called by the other function.
 
 3)Tail Recursion
 
