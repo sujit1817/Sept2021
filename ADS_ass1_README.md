@@ -43,7 +43,11 @@ can be accessed in a non-linear manner.
 - hash table (associative manner)
 - binary heap
 
-6) What Does Abstract Data Type Mean?                                                                                                                                           
+6) What Does Abstract Data Type Mean?                                                                                                                                           --> The Data Type is basically a type of data that can be used in different computer program. It signifies the type like integer, float etc, the space like integer will take 4-bytes, character will take 1-byte of space etc.
+
+--> The abstract datatype is special kind of datatype, whose behavior is defined by a set of values and set of operations. The keyword “Abstract” is used as we can use these datatypes, we can perform different operations. But how those operations are working that is totally hidden from the user. The ADT is made of with primitive datatypes, but operation logics are hidden.
+
+Some examples of ADT are Stack, Queue, List etc.                                                                                                                            
 
 7) What is Recursion?                                                                                                                                                           
 The process in which a function calls itself directly or indirectly is called recursion and 
