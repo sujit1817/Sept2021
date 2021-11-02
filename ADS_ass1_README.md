@@ -59,7 +59,9 @@ the corresponding function is called as recursive function.
 
 
 10)List the examples where recursion is used
-
+Recursion is made for solving problems that can be broken down into smaller, repetitive problems. helps in reducing code length.
+- Adding a list of numbers.
+- factorial of a number.
 
 
 11)Explain the difference between Recursion and Iteration, justify which to use when,Tail recursion?
@@ -67,11 +69,19 @@ the corresponding function is called as recursive function.
 
 
 12)Difference between Primitive and Non Primitive DS
+Data structure means organizing the data in the memory. The data can be organized in two ways either linear or non-linear way.
+There are two types of data structure available for the programming purpose:
+
+1.Primitive data structure ( int , float, character )
+2.Non-primitive data structure ( array, linked list, stack )
+
+Primitive data structure is a fundamental type of data structure that stores the data of only one type. 
+whereas, the non-primitive data structure is a type of data structure which is a user-defined that stores the data of different types in a single entity.
 
 
 13)Difference between Linear and Non Linear DS
  1. In a linear data structure, data elements are arranged in a linear order where each and every elements are attached to its previous and next adjacent.
-Arrray , list , stack, queue.
+Arrray , list, stack, queue.
 
  2. In a non-linear data structure, data elements are attached in hierarchical manner.
  Tree, Graph
