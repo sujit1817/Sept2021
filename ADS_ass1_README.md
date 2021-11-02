@@ -30,8 +30,6 @@ reusability
   1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
 in a linear manner.
 - array( Array is an object which contains elements of a similar data type )
-- structure & union
-- class 
 - linked list ( it is a collection/list of logically related similar type of elements )
 - stack (It works just like a Books placed one over another where the last book kept will be removed first)
 - queue (It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first.)
@@ -41,7 +39,6 @@ can be accessed in a non-linear manner.
 - tree (heirachical manner) // one branch extends another one
 - graph (network)
 - hash table (associative manner)
-- binary heap
 
 6) What Does Abstract Data Type Mean?                                                                                                                                           --> The Data Type is basically a type of data that can be used in different computer program. It signifies the type like integer, float etc, the space like integer will take 4-bytes, character will take 1-byte of space etc.
 
@@ -87,6 +84,7 @@ Arrray , list , stack, queue.
 
 Advantages:
 makes code shorter
+
 
 disadv:                                                                                                                                                                         
 Hard to analyze or understand the code.
