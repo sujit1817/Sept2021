@@ -51,7 +51,23 @@ The process in which a function calls itself directly or indirectly is called re
 the corresponding function is called as recursive function.
 
 8) List and Explain types of Recursion
-                                                    
+Direct Recursion.
+Indirect Recursion.
+Tail Recursion.
+Head Recursion. 
+
+1)Direct Recursion
+
+
+2)Indirect Recursion
+
+
+3)Tail Recursion
+
+
+4)Head Recursion
+
+
 
 
 9) Explain the data structures used to perform recursion?                         
