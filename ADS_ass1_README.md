@@ -112,17 +112,35 @@ Arrray , list, stack, queue.
  
 
 14)What are different characterstics of an Algorithm?types of Algorithm.
+Finiteness: An algorithm should have finite number of steps and it should end after a finite time.
+Input: An algorithm may have many inputs or no inputs at all.
+Output: It should result at least one output.
+Definiteness: Each step must be clear, well-defined and precise.
+Effectiveness: Each step must be simple and should take a finite amount of time
 
+Brute Force Algorithm: 
+This is the most basic and simplest type of algorithm. A Brute Force Algorithm is the straightforward approach to a problem i.e., the first approach that comes to our mind on seeing the problem. More technically it is just like iterating every possibility available to solve that problem.
+
+Recursive Algorithm:
+This type of algorithm is based on recursion. In recursion, a problem is solved by breaking it into subproblems of the same type and calling own self again and again until the problem is solved with the help of a base condition.
+
+Divide and Conquer Algorithm:
+In Divide and Conquer algorithms, the idea is to solve the problem in two sections, the first section divides the problem into subproblems of the same type. The second section is to solve the smaller problem independently and then add the combined result to produce the final answer to the problem.
+eg. Binary Search, Merge Sort, Quick Sort.
+
+Dynamic Programming Algorithms:
+This type of algorithm is also known as the memoization technique because in this the idea is to store the previously calculated result to avoid calculating it again and again. In Dynamic Programming, divide the complex problem into smaller overlapping subproblems and storing the result for future use.
 
 15)State Advantages and Disadvantages of Recursion.                                                                                                                             
 
 Advantages:
 makes code shorter
-
+reduces the time needed to write
 
 disadv:                                                                                                                                                                         
 Hard to analyze or understand the code.
-high time complexity
+It usually uses more memory for the stack.
+Can lead to stack overflow
 
 
 //just for information
