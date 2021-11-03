@@ -27,14 +27,14 @@ reusability
 5) List different types of data structures.                                                                                                                                    
    Basically, data structures are divided into two categories:
      
-  1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
+1. linear/basic data structures: data ele's gets stored in a linear manner and hence can be accessed
 in a linear manner.
-- array( Array is an object which contains elements of a similar data type )
+- array ( Array is an object which contains elements of a similar data type )
 - linked list ( it is a collection/list of logically related similar type of elements )
 - stack (It works just like a Books placed one over another where the last book kept will be removed first)
 - queue (It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first.)
 
- 2. non-linear/advanced data structures: data ele's gets stored in a non-linear manner and hence
+2. non-linear/advanced data structures: data ele's gets stored in a non-linear manner and hence
 can be accessed in a non-linear manner.
 - tree (heirachical manner) // one branch extends another one
 - graph (network)
@@ -42,9 +42,9 @@ can be accessed in a non-linear manner.
 
 6) What Does Abstract Data Type Mean?                                                                                                                                           --> The Data Type is basically a type of data that can be used in different computer program. It signifies the type like integer, float etc, the space like integer will take 4-bytes, character will take 1-byte of space etc.
 
---> The abstract datatype is special kind of datatype, whose behavior is defined by a set of values and set of operations. The keyword “Abstract” is used as we can use these datatypes, we can perform different operations. But how those operations are working that is totally hidden from the user. The ADT is made of with primitive datatypes, but operation logics are hidden.
-
+--> The abstract datatype is special kind of datatype, whose behavior is defined by a set of values and set of operations. The keyword “Abstract” is used as we can use these datatypes, we can perform different operations. But how those operations are working that is totally hidden from the user. The ADT is made of with primitive datatypes, but operation logics are hidden.                                                                                                                                                     
 Some examples of ADT are Stack, Queue, List etc.                                                                                                                            
+
 
 7) What is Recursion?                                                                                                                                                           
 The process in which a function calls itself directly or indirectly is called recursion and 
@@ -56,19 +56,17 @@ Indirect Recursion.
 Tail Recursion.
 Head Recursion. 
 
-1)Direct Recursion
+1)Direct Recursion                                                                                                                                                               
 In the direct recursion, only one function is called by itself.
 
-2)Indirect Recursion
+2)Indirect Recursion                                                                                                                                                             
 In indirect recursion more than one function are called by the other function.
 
-3)Tail Recursion
+3)Tail Recursion                                                                                                                                                                 
+A recursive function is tail recursive when a recursive call is the last thing executed by the function.
 
-
-4)Head Recursion
-
-
-
+4)Head Recursion                                                                                                                                                                 
+If a recursive function calling itself and that recursive call is the first statement in the function then it's known as Head Recursion
 
 9) Explain the data structures used to perform recursion?                         
 
@@ -81,7 +79,17 @@ Recursion is made for solving problems that can be broken down into smaller, rep
 
 
 11)Explain the difference between Recursion and Iteration, justify which to use when,Tail recursion?
+Recursion
+- A program is called recursive when an entity calls itself. 
+- Used when code size needs to be small, and time complexity is not an issue.
+- 	Smaller code size
+- 	Very high time complexity
 
+Iteration
+- A program is call iterative when there is a loop (or repetition)
+- Used when time complexity needs to be balanced against an expanded code size.
+- 	Larger Code Size.
+- 	Relatively lower time complexity
 
 
 12)Difference between Primitive and Non Primitive DS
@@ -106,7 +114,7 @@ Arrray , list, stack, queue.
 14)What are different characterstics of an Algorithm?types of Algorithm.
 
 
-15)State Advantages and Dis advantages of Recursion.                                                                                                                             
+15)State Advantages and Disadvantages of Recursion.                                                                                                                             
 
 Advantages:
 makes code shorter
@@ -114,3 +122,8 @@ makes code shorter
 
 disadv:                                                                                                                                                                         
 Hard to analyze or understand the code.
+high time complexity
+
+
+//just for information
+//the time complexity is the amount of time taken by an algorithm to run
