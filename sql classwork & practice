@@ -1,0 +1,18 @@
+use demo;
+create table EMPL(FNAME varchar(10), LNAME varchar(10));
+insert into empl values('Arun','Purun'),('Tarun','Arun'),('sirun','Kirun'),('Nutan','Purun');
+select * from empl;
+select concat(fname,lname) from empl;
+select concat(concat(fname,' '),lname) from empl;
+select upper(fname) from empl;
+select rpad(fname,25,' ') from empl;
+
+show databases;
+use demo;
+show tables;
+select * from empl;
+select length(fname) from empl;
+select replace(fname,'un','xy') from empl;
+select replace(fname,'un','z' ) from empl;
+select ascii(fname) from empl;
+select distinct ascii('z') from empl;
