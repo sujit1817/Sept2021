@@ -1,0 +1,6 @@
+create database sqlassignment;
+use sqlassignment;
+--DEpartment table
+create table department(dept_id int, dept_name varchar(50));
+INSERT INTO department values(1,'Finance'),(2,'Training'),(3,'Marketing');
+select * from department;
