@@ -16,3 +16,96 @@ select replace(fname,'un','xy') from empl;
 select replace(fname,'un','z' ) from empl;
 select ascii(fname) from empl;
 select distinct ascii('z') from empl;
+
+— Q1  SEMP
+CREATE TABLE SEMP(
+EMPNO CHAR(4),
+EMPNAME CHAR(20),
+BASIC FLOAT,
+DEPTNO CHAR(2),
+DEPTHEAD CHAR(4)
+
+);
+
+
+
+INSERT INTO SEMP VALUES ('0001','SUNIL', 6000, '10', NULL);
+INSERT INTO SEMP VALUES ('0002','HIEREN', 8000, '20', NULL);
+INSERT INTO SEMP VALUES ('0003', 'ALI', 4000, '10', '0001');
+INSERT INTO SEMP VALUES ('0004', 'GEORGE', 6000, NULL, '0002');
+
+
+-Q2 SDEPT
+use demo;
+show tables;
+CREATE TABLE SDEPT(
+DEPTNO CHAR(2),
+DEPTNAME CHAR(15));
+
+insert into SDEPT values ('10', 'Development');
+insert into SDEPT VALUES ('20', 'Training');
+select * from SDEPT;
+
+BASIC.emp
+from notebook (operations tried order)
+
+1
+CREATE TABLE S (  
+`S#` CHAR(4),
+SNAME CHAR(20),
+STATUS FLOAT, 
+CITY CHAR(20));
+
+INSERT INTO S (`S#`,STATUS)
+VALUES ('S1', 10);
+INSERT INTO S (`S#`,STATUS)
+VALUES ('S2', 20);
+INSERT INTO S (`S#`,STATUS)
+VALUES ('S3', 30);
+
+2
+CREATE TABLE P(
+`P#` CHAR(4),
+PNAME CHAR(20), 
+COLOUR CHAR(20), 
+WEIGHT FLOAT, 
+CITY CHAR(20));
+
+INSERT INTO P(`P#`)
+VALUES ('P1');
+INSERT INTO P(`P#`)
+VALUES ('P2');
+INSERT INTO P(`P#`)
+VALUES ('P3');
+
+
+3
+
+CREATE TABLE J(
+`J#` CHAR(4), 
+JNAME CHAR(20), 
+CITY CHAR(20));
+
+INSERT INTO J (`J#`)
+VALUES('J1');
+INSERT INTO J (`J#`)
+VALUES('J2');
+INSERT INTO J (`J#`)
+VALUES('J3');
+
+SELECT * FROM S;
+
+SELECT `S#`, SNAME FROM S;
+
+4
+
+CREATE TABLE SPJ(
+`S#` CHAR(4),
+`P#` CHAR(4),
+`J#` CHAR(4),
+QTY CHAR(4)
+);
+
+
+
+3
