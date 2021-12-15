@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">    /*use ! enter to get all meta*/
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment3</title>
+</head>
+
+<body>
+    <h1>Here are my favorite sites</h1>
+    <h3>Click on the name to go to that page</h3>
+    <ol>
+        <li> <a href="https://www.amazon.in" target="_blank" title="Amazon">Amazon</a></li>
+        <li> <a href="https://www.youtube.com/" target="_blank" title="YouTube">YouTube</a></li>
+        <li> <a href="https://linkedin.com/" target="_blank" title="LinkedIn">LinkedIn</a></li>
+        <li> <a href="https://www.cdac.in/" target="_blank" title="CDAC">CDAC</a></li>
+        <li> <a href="https://afcat.cdac.in/AFCAT/" target="_blank" title="AFCAT">AFCAT</a></li>
+
+    </ol>
+</body>
+</html>
